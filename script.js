@@ -13,7 +13,7 @@ function addTask() {
       li.remove();
       saveData();
     };
-    span.innerHTML = "\u00d7";
+    span.innerHTML = "\u00D7";
     li.appendChild(span);
   }
   inputBox.value = "";

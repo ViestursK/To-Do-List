@@ -97,7 +97,7 @@ ul li::before {
   background-position: center;
   top: 8px;
   left: 8px;
-}S
+}
 
 ul li.checked {
   color: #555;
